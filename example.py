@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-etherparty_api_url = 'https://api.coinmarketcap.com/v1/ticker/etherparty/'
-response = requests.get(etherparty_api_url)
+amino-network_api_url = 'https://api.coinmarketcap.com/v1/ticker/amino-network/'
+response = requests.get(amino-network_api_url)
 response_json = response.json()
 print(response_json)
 

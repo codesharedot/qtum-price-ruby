@@ -1,5 +1,5 @@
-# etherparty price 
+# amino-network price 
 
-Gets the etherparty price with Python (from JSON).
+Gets the amino-network price with Python (from JSON).
 
 https://pythonbasics.org
