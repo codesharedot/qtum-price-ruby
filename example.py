@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-jibrel-network_api_url = 'https://api.coinmarketcap.com/v1/ticker/jibrel-network/'
-response = requests.get(jibrel-network_api_url)
+rublix_api_url = 'https://api.coinmarketcap.com/v1/ticker/rublix/'
+response = requests.get(rublix_api_url)
 response_json = response.json()
 print(response_json)
 

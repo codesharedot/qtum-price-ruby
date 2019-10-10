@@ -1,5 +1,5 @@
-# jibrel-network price 
+# rublix price 
 
-Gets the jibrel-network price with Python (from JSON).
+Gets the rublix price with Python (from JSON).
 
 https://pythonbasics.org
