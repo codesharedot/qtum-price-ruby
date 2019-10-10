@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-rublix_api_url = 'https://api.coinmarketcap.com/v1/ticker/rublix/'
-response = requests.get(rublix_api_url)
+get-protocol_api_url = 'https://api.coinmarketcap.com/v1/ticker/get-protocol/'
+response = requests.get(get-protocol_api_url)
 response_json = response.json()
 print(response_json)
 

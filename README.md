@@ -1,5 +1,5 @@
-# rublix price 
+# get-protocol price 
 
-Gets the rublix price with Python (from JSON).
+Gets the get-protocol price with Python (from JSON).
 
 https://pythonbasics.org
