@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-blackcoin_api_url = 'https://api.coinmarketcap.com/v1/ticker/blackcoin/'
-response = requests.get(blackcoin_api_url)
+jibrel-network_api_url = 'https://api.coinmarketcap.com/v1/ticker/jibrel-network/'
+response = requests.get(jibrel-network_api_url)
 response_json = response.json()
 print(response_json)
 
