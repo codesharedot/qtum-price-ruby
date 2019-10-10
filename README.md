@@ -1,5 +1,5 @@
-# get-protocol price 
+# etherparty price 
 
-Gets the get-protocol price with Python (from JSON).
+Gets the etherparty price with Python (from JSON).
 
 https://pythonbasics.org
