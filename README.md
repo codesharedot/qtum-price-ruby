@@ -1,5 +1,5 @@
-# xyo price 
+# stableusd price 
 
-Gets the xyo price with Python (from JSON).
+Gets the stableusd price with Python (from JSON).
 
 https://pythonbasics.org
