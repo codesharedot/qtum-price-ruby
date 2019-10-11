@@ -1,5 +1,5 @@
-# videocoin price 
+# futurepia price 
 
-Gets the videocoin price with Python (from JSON).
+Gets the futurepia price with Python (from JSON).
 
 https://pythonbasics.org

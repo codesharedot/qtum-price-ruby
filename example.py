@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-videocoin_api_url = 'https://api.coinmarketcap.com/v1/ticker/videocoin/'
-response = requests.get(videocoin_api_url)
+futurepia_api_url = 'https://api.coinmarketcap.com/v1/ticker/futurepia/'
+response = requests.get(futurepia_api_url)
 response_json = response.json()
 print(response_json)
 
