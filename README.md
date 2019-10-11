@@ -1,5 +1,5 @@
-# amino-network price 
+# appcoins price 
 
-Gets the amino-network price with Python (from JSON).
+Gets the appcoins price with Python (from JSON).
 
 https://pythonbasics.org
