@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-appcoins_api_url = 'https://api.coinmarketcap.com/v1/ticker/appcoins/'
-response = requests.get(appcoins_api_url)
+whitecoin_api_url = 'https://api.coinmarketcap.com/v1/ticker/whitecoin/'
+response = requests.get(whitecoin_api_url)
 response_json = response.json()
 print(response_json)
 

@@ -1,5 +1,5 @@
-# appcoins price 
+# whitecoin price 
 
-Gets the appcoins price with Python (from JSON).
+Gets the whitecoin price with Python (from JSON).
 
 https://pythonbasics.org
