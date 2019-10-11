@@ -1,5 +1,5 @@
-# stableusd price 
+# lendingblock price 
 
-Gets the stableusd price with Python (from JSON).
+Gets the lendingblock price with Python (from JSON).
 
 https://pythonbasics.org
