@@ -1,5 +1,5 @@
-# lendingblock price 
+# ubiq price 
 
-Gets the lendingblock price with Python (from JSON).
+Gets the ubiq price with Python (from JSON).
 
 https://pythonbasics.org
