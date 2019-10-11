@@ -1,5 +1,5 @@
-# whitecoin price 
+# pivot-token price 
 
-Gets the whitecoin price with Python (from JSON).
+Gets the pivot-token price with Python (from JSON).
 
 https://pythonbasics.org
