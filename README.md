@@ -1,5 +1,5 @@
-# pivot-token price 
+# xyo price 
 
-Gets the pivot-token price with Python (from JSON).
+Gets the xyo price with Python (from JSON).
 
 https://pythonbasics.org

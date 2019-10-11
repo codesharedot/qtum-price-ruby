@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-pivot-token_api_url = 'https://api.coinmarketcap.com/v1/ticker/pivot-token/'
-response = requests.get(pivot-token_api_url)
+xyo_api_url = 'https://api.coinmarketcap.com/v1/ticker/xyo/'
+response = requests.get(xyo_api_url)
 response_json = response.json()
 print(response_json)
 
