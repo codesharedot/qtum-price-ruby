@@ -1,5 +1,5 @@
-# ubiq price 
+# videocoin price 
 
-Gets the ubiq price with Python (from JSON).
+Gets the videocoin price with Python (from JSON).
 
 https://pythonbasics.org
