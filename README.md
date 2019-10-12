@@ -1,5 +1,5 @@
-# hashsbx price 
+# cashaa price 
 
-Gets the hashsbx price with Python (from JSON).
+Gets the cashaa price with Python (from JSON).
 
 https://pythonbasics.org
