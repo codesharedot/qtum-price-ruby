@@ -1,5 +1,5 @@
-# futurepia price 
+# hashsbx price 
 
-Gets the futurepia price with Python (from JSON).
+Gets the hashsbx price with Python (from JSON).
 
 https://pythonbasics.org

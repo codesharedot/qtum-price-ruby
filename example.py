@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-futurepia_api_url = 'https://api.coinmarketcap.com/v1/ticker/futurepia/'
-response = requests.get(futurepia_api_url)
+hashsbx_api_url = 'https://api.coinmarketcap.com/v1/ticker/hashsbx/'
+response = requests.get(hashsbx_api_url)
 response_json = response.json()
 print(response_json)
 
