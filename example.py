@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-neumark_api_url = 'https://api.coinmarketcap.com/v1/ticker/neumark/'
-response = requests.get(neumark_api_url)
+quickx-protocol_api_url = 'https://api.coinmarketcap.com/v1/ticker/quickx-protocol/'
+response = requests.get(quickx-protocol_api_url)
 response_json = response.json()
 print(response_json)
 

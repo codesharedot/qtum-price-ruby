@@ -1,5 +1,5 @@
-# neumark price 
+# quickx-protocol price 
 
-Gets the neumark price with Python (from JSON).
+Gets the quickx-protocol price with Python (from JSON).
 
 https://pythonbasics.org
