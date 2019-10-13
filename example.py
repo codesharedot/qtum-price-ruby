@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-scryinfo_api_url = 'https://api.coinmarketcap.com/v1/ticker/scryinfo/'
-response = requests.get(scryinfo_api_url)
+wings_api_url = 'https://api.coinmarketcap.com/v1/ticker/wings/'
+response = requests.get(wings_api_url)
 response_json = response.json()
 print(response_json)
 
