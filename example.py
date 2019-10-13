@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-cashaa_api_url = 'https://api.coinmarketcap.com/v1/ticker/cashaa/'
-response = requests.get(cashaa_api_url)
+neumark_api_url = 'https://api.coinmarketcap.com/v1/ticker/neumark/'
+response = requests.get(neumark_api_url)
 response_json = response.json()
 print(response_json)
 
