@@ -1,5 +1,5 @@
-# nix price 
+# bitbay price 
 
-Gets the nix price with Python (from JSON).
+Gets the bitbay price with Python (from JSON).
 
 https://pythonbasics.org

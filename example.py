@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-nix_api_url = 'https://api.coinmarketcap.com/v1/ticker/nix/'
-response = requests.get(nix_api_url)
+bitbay_api_url = 'https://api.coinmarketcap.com/v1/ticker/bitbay/'
+response = requests.get(bitbay_api_url)
 response_json = response.json()
 print(response_json)
 
