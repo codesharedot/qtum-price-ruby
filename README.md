@@ -1,5 +1,5 @@
-# bottos price 
+# refereum price 
 
-Gets the bottos price with Python (from JSON).
+Gets the refereum price with Python (from JSON).
 
 https://pythonbasics.org

@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-bottos_api_url = 'https://api.coinmarketcap.com/v1/ticker/bottos/'
-response = requests.get(bottos_api_url)
+refereum_api_url = 'https://api.coinmarketcap.com/v1/ticker/refereum/'
+response = requests.get(refereum_api_url)
 response_json = response.json()
 print(response_json)
 
