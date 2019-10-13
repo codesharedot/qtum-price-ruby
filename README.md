@@ -1,5 +1,5 @@
-# trade-token-x price 
+# scryinfo price 
 
-Gets the trade-token-x price with Python (from JSON).
+Gets the scryinfo price with Python (from JSON).
 
 https://pythonbasics.org
