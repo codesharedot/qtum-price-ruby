@@ -1,5 +1,5 @@
-# bitbay price 
+# lykke price 
 
-Gets the bitbay price with Python (from JSON).
+Gets the lykke price with Python (from JSON).
 
 https://pythonbasics.org
