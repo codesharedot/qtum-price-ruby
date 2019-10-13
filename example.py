@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-lykke_api_url = 'https://api.coinmarketcap.com/v1/ticker/lykke/'
-response = requests.get(lykke_api_url)
+bottos_api_url = 'https://api.coinmarketcap.com/v1/ticker/bottos/'
+response = requests.get(bottos_api_url)
 response_json = response.json()
 print(response_json)
 

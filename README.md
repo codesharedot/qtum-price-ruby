@@ -1,5 +1,5 @@
-# lykke price 
+# bottos price 
 
-Gets the lykke price with Python (from JSON).
+Gets the bottos price with Python (from JSON).
 
 https://pythonbasics.org
