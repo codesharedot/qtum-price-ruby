@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-quickx-protocol_api_url = 'https://api.coinmarketcap.com/v1/ticker/quickx-protocol/'
-response = requests.get(quickx-protocol_api_url)
+trade-token-x_api_url = 'https://api.coinmarketcap.com/v1/ticker/trade-token-x/'
+response = requests.get(trade-token-x_api_url)
 response_json = response.json()
 print(response_json)
 

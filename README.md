@@ -1,5 +1,5 @@
-# quickx-protocol price 
+# trade-token-x price 
 
-Gets the quickx-protocol price with Python (from JSON).
+Gets the trade-token-x price with Python (from JSON).
 
 https://pythonbasics.org
