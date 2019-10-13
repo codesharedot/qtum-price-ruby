@@ -1,5 +1,5 @@
-# cajutel price 
+# nix price 
 
-Gets the cajutel price with Python (from JSON).
+Gets the nix price with Python (from JSON).
 
 https://pythonbasics.org
