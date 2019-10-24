@@ -1,5 +1,5 @@
-# refereum price 
+# bitcoin price ruby 
 
-Gets the refereum price with Python (from JSON).
+Gets the bitcoin price with Ruby (from JSON).
 
-https://pythonbasics.org
+https://ruby-lang.co
