@@ -1,5 +1,5 @@
-# litecoin price ruby 
+# tether price ruby 
 
-Gets the litecoin price with Ruby (from JSON).
+Gets the tether price with Ruby (from JSON).
 
 https://ruby-lang.co
