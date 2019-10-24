@@ -1,5 +1,5 @@
-# huobi-token price ruby 
+# tron price ruby 
 
-Gets the huobi-token price with Ruby (from JSON).
+Gets the tron price with Ruby (from JSON).
 
 https://ruby-lang.co
