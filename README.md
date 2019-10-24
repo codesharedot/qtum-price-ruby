@@ -1,5 +1,5 @@
-# binance-coin price ruby 
+# bitcoin-sv price ruby 
 
-Gets the binance-coin price with Ruby (from JSON).
+Gets the bitcoin-sv price with Ruby (from JSON).
 
 https://ruby-lang.co
