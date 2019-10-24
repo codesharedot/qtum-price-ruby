@@ -1,5 +1,5 @@
-# ethereum price ruby 
+# ripple price ruby 
 
-Gets the ethereum price with Ruby (from JSON).
+Gets the ripple price with Ruby (from JSON).
 
 https://ruby-lang.co
