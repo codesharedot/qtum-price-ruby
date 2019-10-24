@@ -1,5 +1,5 @@
-# tether price ruby 
+# eos price ruby 
 
-Gets the tether price with Ruby (from JSON).
+Gets the eos price with Ruby (from JSON).
 
 https://ruby-lang.co
