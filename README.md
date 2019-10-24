@@ -1,5 +1,5 @@
-# bitcoin-sv price ruby 
+# monero price ruby 
 
-Gets the bitcoin-sv price with Ruby (from JSON).
+Gets the monero price with Ruby (from JSON).
 
 https://ruby-lang.co
