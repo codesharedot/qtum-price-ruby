@@ -1,5 +1,5 @@
-# eos price ruby 
+# binance-coin price ruby 
 
-Gets the eos price with Ruby (from JSON).
+Gets the binance-coin price with Ruby (from JSON).
 
 https://ruby-lang.co
