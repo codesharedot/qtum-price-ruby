@@ -1,5 +1,5 @@
-# bitcoin price ruby 
+# ethereum price ruby 
 
-Gets the bitcoin price with Ruby (from JSON).
+Gets the ethereum price with Ruby (from JSON).
 
 https://ruby-lang.co
