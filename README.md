@@ -1,5 +1,5 @@
-# unus-sed-leo price ruby 
+# huobi-token price ruby 
 
-Gets the unus-sed-leo price with Ruby (from JSON).
+Gets the huobi-token price with Ruby (from JSON).
 
 https://ruby-lang.co
