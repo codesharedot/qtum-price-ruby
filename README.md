@@ -1,5 +1,5 @@
-# monero price ruby 
+# stellar price ruby 
 
-Gets the monero price with Ruby (from JSON).
+Gets the stellar price with Ruby (from JSON).
 
 https://ruby-lang.co
