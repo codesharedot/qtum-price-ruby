@@ -1,5 +1,5 @@
-# dash price ruby 
+# ethereum-classic price ruby 
 
-Gets the dash price with Ruby (from JSON).
+Gets the ethereum-classic price with Ruby (from JSON).
 
 https://ruby-lang.co
