@@ -1,5 +1,5 @@
-# ethereum-classic price ruby 
+# tezos price ruby 
 
-Gets the ethereum-classic price with Ruby (from JSON).
+Gets the tezos price with Ruby (from JSON).
 
 https://ruby-lang.co
