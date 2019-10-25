@@ -1,5 +1,5 @@
-# tezos price ruby 
+# iota price ruby 
 
-Gets the tezos price with Ruby (from JSON).
+Gets the iota price with Ruby (from JSON).
 
 https://ruby-lang.co
