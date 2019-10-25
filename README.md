@@ -1,5 +1,5 @@
-# tron price ruby 
+# dash price ruby 
 
-Gets the tron price with Ruby (from JSON).
+Gets the dash price with Ruby (from JSON).
 
 https://ruby-lang.co
