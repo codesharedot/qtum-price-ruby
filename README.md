@@ -1,5 +1,5 @@
-# cosmos price ruby 
+# maker price ruby 
 
-Gets the cosmos price with Ruby (from JSON).
+Gets the maker price with Ruby (from JSON).
 
 https://ruby-lang.co
