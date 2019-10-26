@@ -1,5 +1,5 @@
-# maker price ruby 
+# usd-coin price ruby 
 
-Gets the maker price with Ruby (from JSON).
+Gets the usd-coin price with Ruby (from JSON).
 
 https://ruby-lang.co
