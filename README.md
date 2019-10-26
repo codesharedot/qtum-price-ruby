@@ -1,5 +1,5 @@
-# iota price ruby 
+# neo price ruby 
 
-Gets the iota price with Ruby (from JSON).
+Gets the neo price with Ruby (from JSON).
 
 https://ruby-lang.co
