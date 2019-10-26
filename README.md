@@ -1,5 +1,5 @@
-# chainlink price ruby 
+# cosmos price ruby 
 
-Gets the chainlink price with Ruby (from JSON).
+Gets the cosmos price with Ruby (from JSON).
 
 https://ruby-lang.co
