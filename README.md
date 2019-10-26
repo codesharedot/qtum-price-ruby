@@ -1,5 +1,5 @@
-# crypto-com-coin price ruby 
+# ontology price ruby 
 
-Gets the crypto-com-coin price with Ruby (from JSON).
+Gets the ontology price with Ruby (from JSON).
 
 https://ruby-lang.co
