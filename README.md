@@ -1,5 +1,5 @@
-# neo price ruby 
+# chainlink price ruby 
 
-Gets the neo price with Ruby (from JSON).
+Gets the chainlink price with Ruby (from JSON).
 
 https://ruby-lang.co
