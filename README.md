@@ -1,5 +1,5 @@
-# basic-attention-token price ruby 
+# decred price ruby 
 
-Gets the basic-attention-token price with Ruby (from JSON).
+Gets the decred price with Ruby (from JSON).
 
 https://ruby-lang.co
