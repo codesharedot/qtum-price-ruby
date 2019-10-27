@@ -1,5 +1,5 @@
-# paxos-standard-token price ruby 
+# basic-attention-token price ruby 
 
-Gets the paxos-standard-token price with Ruby (from JSON).
+Gets the basic-attention-token price with Ruby (from JSON).
 
 https://ruby-lang.co
