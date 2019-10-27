@@ -1,5 +1,5 @@
-# vechain price ruby 
+# trueusd price ruby 
 
-Gets the vechain price with Ruby (from JSON).
+Gets the trueusd price with Ruby (from JSON).
 
 https://ruby-lang.co
