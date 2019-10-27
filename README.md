@@ -1,5 +1,5 @@
-# nem price ruby 
+# zcash price ruby 
 
-Gets the nem price with Ruby (from JSON).
+Gets the zcash price with Ruby (from JSON).
 
 https://ruby-lang.co
