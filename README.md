@@ -1,5 +1,5 @@
-# ontology price ruby 
+# nem price ruby 
 
-Gets the ontology price with Ruby (from JSON).
+Gets the nem price with Ruby (from JSON).
 
 https://ruby-lang.co
