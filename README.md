@@ -1,5 +1,5 @@
-# hedgetrade price ruby 
+# v-systems price ruby 
 
-Gets the hedgetrade price with Ruby (from JSON).
+Gets the v-systems price with Ruby (from JSON).
 
 https://ruby-lang.co
