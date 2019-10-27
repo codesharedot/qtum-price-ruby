@@ -1,5 +1,5 @@
-# dogecoin price ruby 
+# hedgetrade price ruby 
 
-Gets the dogecoin price with Ruby (from JSON).
+Gets the hedgetrade price with Ruby (from JSON).
 
 https://ruby-lang.co
