@@ -1,5 +1,5 @@
-# v-systems price ruby 
+# paxos-standard-token price ruby 
 
-Gets the v-systems price with Ruby (from JSON).
+Gets the paxos-standard-token price with Ruby (from JSON).
 
 https://ruby-lang.co
