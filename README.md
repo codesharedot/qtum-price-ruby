@@ -1,5 +1,5 @@
-# zcash price ruby 
+# dogecoin price ruby 
 
-Gets the zcash price with Ruby (from JSON).
+Gets the dogecoin price with Ruby (from JSON).
 
 https://ruby-lang.co
