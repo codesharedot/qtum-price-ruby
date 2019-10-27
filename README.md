@@ -1,5 +1,5 @@
-# decred price ruby 
+# vechain price ruby 
 
-Gets the decred price with Ruby (from JSON).
+Gets the vechain price with Ruby (from JSON).
 
 https://ruby-lang.co
